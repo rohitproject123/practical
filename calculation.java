@@ -6,7 +6,7 @@ class calculation {
         int sum = a + b;
         int mul = a * b;
         int sub = a - b;
-        int divide = a % b;
+        int divide = a/b;
 System.out.println(a + "  " + b);
         System.out.println("Sum is " + sum);
         System.out.println("multiplication is " + mul);
